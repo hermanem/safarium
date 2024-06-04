@@ -87,7 +87,7 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :com
     small_size: '800x800',
     density: '300',
     missing: 'true',
-    compress_originals: 'false'
+    compress_originals: 'true'
   )
 
   # set the folder locations
