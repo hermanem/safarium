@@ -4,7 +4,7 @@
 
 require 'csv'
 require 'fileutils'
-require 'image_optim' 
+require 'image_optim' unless Gem.win_platform?
 require 'mini_magick'
 
 ###############################################################################
