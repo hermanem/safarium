@@ -4,7 +4,7 @@
 
 require 'csv'
 require 'fileutils'
-require 'image_optim' unless Gem.win_platform?
+require 'image_optim' unless Gem.win_platform? 
 require 'mini_magick'
 
 ###############################################################################
@@ -87,7 +87,7 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :com
     small_size: '800x800',
     density: '300',
     missing: 'true',
-    compress_originals: 'false'
+    compress_originals: 'true'
   )
 
   # set the folder locations
