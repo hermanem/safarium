@@ -20,8 +20,6 @@ Safarium is the creation of Matthew Hermane, a PhD candidate in the Department o
 
 Safarium is built with [CollectionBuilder](https://github.com/CollectionBuilder/), an open source framework for creating digital collection and exhibit websites that is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
 
-
-
 ## Objectives 
 
 **Inclusive scholarship** Safarium strives to overcome western-dominated and colonial narratives by pointing researchers, teachers, and students toward complementary sources of various origins.
@@ -48,6 +46,6 @@ Safarium is built with [CollectionBuilder](https://github.com/CollectionBuilder/
 
 **Early modern topics and the public digital humanities in the classroom** One of Safarium's primary objectives is to provide a model for making pre-modern historical studies relevant for today's students. In pursuit of this objective, an experimental course has been designed that encourages students to interrogate notions of modernity through the study of early modern travel accounts. Over the duration of the course, students examine a travel account of their choice, extract its itinerary, map the itinerary, and add it to Safarium's database. In this way, students also become familiar with digital tools and methods that have applicability beyond the humanities. See the syllabus below.
 
-{% include feature/pdf-embed.html objectid="}
+{% include feature/pdf-embed.html objectid="obj006" %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
