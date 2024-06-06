@@ -12,13 +12,15 @@ credits: true
 
 {% include feature/nav-menu.html sections="About Safarium;Objectives;Methods;Pedagogy" %}
 
-
+<br/>
 
 ## About Safarium
 
 Safarium is the creation of Matthew Hermane, a PhD candidate in the Department of History at Indiana University Bloomington, with the support of [IDAH@IU](https://idah.indiana.edu/index.html) and [HASTAC](https://hastac.hcommons.org/). Inspired by a dissertation project examining examples of French and Persian travel writing produced by embassies that nearly crossed paths in Siam during the winter of 1685-1686, Safarium endeavors to promote transregional historical studies that involve complementary sources written by authors of disparate cultures and geographies. By searching locations in Safarium's database, users can identify travel accounts across languages that comment on the queried locale. Users are also presented with maps reflecting the itineraries and routes in the travel accounts returned by the search results. Safarium strives to put users in touch with sources they may be unaware of due to research specialties or language limitations. Because the instances of travel writing produced by European printers alone during the early modern period number in the thousands, Safarium is a *project* in the fullest sense of the word. In the future, Safarium hopes to enable the public contributions to the database of travel writing. Beyond research, Safarium intends to be a tool for familiarizing students and the public with both early modern history and the digital humanities.
 
 Safarium is built with [CollectionBuilder](https://github.com/CollectionBuilder/), an open source framework for creating digital collection and exhibit websites that is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
+
+<br>
 
 ## Objectives 
 
@@ -28,7 +30,7 @@ Safarium is built with [CollectionBuilder](https://github.com/CollectionBuilder/
 
 **Pedagogy** Safarium endeavors to be a useful education tool. The project's sample course teaches students how to do history in the 21st century by employing digital tools and methods that are relevant across a variety of fields. 
 
-
+<br/>
 
 ## Methods
 
@@ -40,12 +42,14 @@ Safarium is built with [CollectionBuilder](https://github.com/CollectionBuilder/
 
 ***Mapping*** Safarium's maps have been created in QGIS from the itineraries extracted from original travel texts in the database. Right now, each travelogue's map can be viewed on the correlated item page. In the future, Google My Maps and StoryMaps will also be employed to present engaging digital exhibits, and it is hoped that itinerary maps can be overlaid, allowing users to view connections between travelogues based on where itinerary routes intersect.
 
-
+<br/>
 
 ## Pedagogy
 
 **Early modern topics and the public digital humanities in the classroom** One of Safarium's primary objectives is to provide a model for making pre-modern historical studies relevant for today's students. In pursuit of this objective, an experimental course has been designed that encourages students to interrogate notions of modernity through the study of early modern travel accounts. Over the duration of the course, students examine a travel account of their choice, extract its itinerary, map the itinerary, and add it to Safarium's database. In this way, students also become familiar with digital tools and methods that have applicability beyond the humanities. See the syllabus below.
 
 {% include feature/pdf.html objectid="obj006" %}
+
+<br/>
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
