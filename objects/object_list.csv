@@ -1,5 +1,6 @@
 filename,object_location,image_small,image_thumb
 About_image.jpeg,/objects/About_image.jpeg,/objects/small/about_image_sm.jpg,/objects/thumbs/about_image_th.jpg
+course_syllabus.pdf,/objects/course_syllabus.pdf,/objects/small/course_syllabus_sm.jpg,/objects/thumbs/course_syllabus_th.jpg
 featured_image.jpeg,/objects/featured_image.jpeg,/objects/small/featured_image_sm.jpg,/objects/thumbs/featured_image_th.jpg
 itin001_safinah_yi_sulaimani.png,/objects/itin001_safinah_yi_sulaimani.png,/objects/small/itin001_safinah_yi_sulaimani_sm.jpg,/objects/thumbs/itin001_safinah_yi_sulaimani_th.jpg
 itin002_voyage_de_siam.png,/objects/itin002_voyage_de_siam.png,/objects/small/itin002_voyage_de_siam_sm.jpg,/objects/thumbs/itin002_voyage_de_siam_th.jpg
