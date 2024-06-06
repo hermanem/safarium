@@ -46,6 +46,6 @@ Safarium is built with [CollectionBuilder](https://github.com/CollectionBuilder/
 
 **Early modern topics and the public digital humanities in the classroom** One of Safarium's primary objectives is to provide a model for making pre-modern historical studies relevant for today's students. In pursuit of this objective, an experimental course has been designed that encourages students to interrogate notions of modernity through the study of early modern travel accounts. Over the duration of the course, students examine a travel account of their choice, extract its itinerary, map the itinerary, and add it to Safarium's database. In this way, students also become familiar with digital tools and methods that have applicability beyond the humanities. See the syllabus below.
 
-{% include feature/pdf-embed.html objectid="obj006" %}
+{% include feature/pdf.html objectid="obj006" %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
