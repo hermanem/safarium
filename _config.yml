@@ -18,23 +18,24 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Safarium
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: A place for exploring and visualizing travel in the early modern world
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Safarium is a public digital history project that allows visitors to identify and visualize historic journeys of the early modern period (14th-18th centuries) by searching locations and browsing items in a database of travel writing. The project's aim is to encourage transregional and comparative studies by enabling the discovery of complementary sources of disparate geographical and cultural origins. Safarium intends to foster community through collaboration and promote education through public history and the digital humanities."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: early modern; travel; travel writing
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Matthew Hermane, PhD Candidate, Indiana University Bloomington
+footer: "A public, collaborative digital history project that encourages transregional early modern studies rooted in travel and travel writing"
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: safariumcsv_metadata 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
